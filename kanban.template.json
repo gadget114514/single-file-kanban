@@ -1,0 +1,23 @@
+{
+  "board": "My Kanban",
+  "columns": [
+    {
+      "id": "todo",
+      "name": "To Do",
+      "color": "#3b82f6",
+      "cards": []
+    },
+    {
+      "id": "progress",
+      "name": "In Progress",
+      "color": "#f59e0b",
+      "cards": []
+    },
+    {
+      "id": "done",
+      "name": "Done",
+      "color": "#22c55e",
+      "cards": []
+    }
+  ]
+}
