@@ -1,4 +1,4 @@
-# Kanban Board
+# Single File Kanban Board
 
 A single-file Kanban board viewer/editor that runs entirely in the browser. No server, no build step, no dependencies.
 
