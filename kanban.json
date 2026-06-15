@@ -11,7 +11,18 @@
       "id": "progress",
       "name": "In Progress",
       "color": "#f59e0b",
-      "cards": []
+      "cards": [
+        {
+          "id": "cmqfervjp5wd67",
+          "title": "test",
+          "description": "",
+          "assignee": "",
+          "priority": "medium",
+          "dueDate": null,
+          "tags": [],
+          "done": false
+        }
+      ]
     },
     {
       "id": "done",
