@@ -133,4 +133,4 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## Related Projects
 
-This Kanban board follows the same single-file architecture as [WBS Viewer](wbs_viewer.html), a Gantt chart viewer for Work Breakdown Structure data.
+This Kanban board follows the same single-file architecture as single-file-wbs, a Gantt chart viewer for Work Breakdown Structure data.
